@@ -77,6 +77,7 @@ dependencies {
     implementation(project(":app"))
     implementation(project(":core"))
     implementation(project(":java"))
+    implementation(project(":lines"))
 }
 
 // This could be removed if the internal build system within processing was moved to gradle
